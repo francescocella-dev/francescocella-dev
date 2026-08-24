@@ -10,7 +10,9 @@ My background includes **50+ client web projects since 2022**, independent full-
 
 ### [Doclia](https://github.com/francescocella-dev/doclia) — flagship
 Full-stack workspace for structured monthly document workflows, private files, data integrity, and auditable state transitions.  
+
 `Next.js` · `React` · `TypeScript` · `Fastify` · `PostgreSQL` · `Supabase` · `Vitest` · `Playwright` · `GitHub Actions`  
+
 [Live demo](https://doclia-demo.netlify.app)
 
 ### [Lindio](https://github.com/francescocella-dev/lindio)
